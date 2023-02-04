@@ -63,4 +63,4 @@ var calc = function (x, y) {
 var value1 = calc(46, 72);
 var value2 = calc(8, 5);
 var final = add(value1, value2);
-console.log(final)
+console.log(final);
